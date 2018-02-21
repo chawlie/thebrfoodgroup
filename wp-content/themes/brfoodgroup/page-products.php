@@ -79,28 +79,30 @@ get_header(); ?>
 			<li>Pecan</li>
 			<li>Pumpkin</li>
 		</ul>
+        <p><strong>Monkey Bread</strong></p>
 	</div>
 </div>
 <div class="row">
   <div class="large-12 columns">
     <h1>Product Photos</h1>
         <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3">
-          <li><img src="<?php bloginfo('template_url'); ?>/assets/img/product-bacon.jpg"></a></li>
-          <li><img src="<?php bloginfo('template_url'); ?>/assets/img/product-breakfastlink.jpg"></a></li>
-          <li><img src="<?php bloginfo('template_url'); ?>/assets/img/product-hameggcheese.jpg"></a></li>
-          <li><img src="<?php bloginfo('template_url'); ?>/assets/img/product-sausage-link.jpg"></a></li>
-          <li><img src="<?php bloginfo('template_url'); ?>/assets/img/product-sausage-egg.jpg"></a></li>
-          <li><img src="<?php bloginfo('template_url'); ?>/assets/img/product-apple.jpg"></li>
-          <li><img src="<?php bloginfo('template_url'); ?>/assets/img/product-strawberry.jpg"></a></li>
-          <li><img src="<?php bloginfo('template_url'); ?>/assets/img/product-cherry.jpg"></a></li>
-          <li><img src="<?php bloginfo('template_url'); ?>/assets/img/product-cheese.jpg"></a></li>
+          <li><img alt="Monkey Bread" title="Monkey Bread" src="<?php bloginfo('template_url'); ?>/assets/img/monkey-bread.jpg"></a></li>
+          <li><img alt="Bacon Egg Cheese Kolache" title="Bacon Egg Cheese Kolache" src="<?php bloginfo('template_url'); ?>/assets/img/product-bacon.jpg"></a></li>
+          <li><img alt="Breakfast Link Kolache" title="Breakfast Link Kolache" src="<?php bloginfo('template_url'); ?>/assets/img/product-breakfastlink.jpg"></a></li>
+          <li><img alt="Ham Egg & Cheese Kolache" title="Ham Egg & Cheese Kolache" src="<?php bloginfo('template_url'); ?>/assets/img/product-hameggcheese.jpg"></a></li>
+          <li><img alt="Sausage Link Kolache" title="Sausage Link Kolache" src="<?php bloginfo('template_url'); ?>/assets/img/product-sausage-link.jpg"></a></li>
+          <li><img alt="Sausage Egg & Cheese Kolache" title="Sausage Egg & Cheese Kolache" src="<?php bloginfo('template_url'); ?>/assets/img/product-sausage-egg.jpg"></a></li>
+          <li><img alt="Apple Kolache" title="Apple Kolache" src="<?php bloginfo('template_url'); ?>/assets/img/product-apple.jpg"></li>
+          <li><img alt="Strawberry Kolache" title="Strawberry Kolache" src="<?php bloginfo('template_url'); ?>/assets/img/product-strawberry.jpg"></a></li>
+          <li><img alt="Cheery Kolache" title="Cheery Kolache" src="<?php bloginfo('template_url'); ?>/assets/img/product-cherry.jpg"></a></li>
+          <li><img alt="Cheese Kolache" title="Cheese Kolache" src="<?php bloginfo('template_url'); ?>/assets/img/product-cheese.jpg"></a></li>
 
-          <li><img src="<?php bloginfo('template_url'); ?>/assets/img/product-bdot-cinnamon.jpg"></a></li>
-          <li><img src="<?php bloginfo('template_url'); ?>/assets/img/product-bdot-everything.jpg"></a></li>
-          <li><img src="<?php bloginfo('template_url'); ?>/assets/img/product-bdot-jalapeno.jpg"></a></li>
-          <li><img src="<?php bloginfo('template_url'); ?>/assets/img/product-bdot-nutella.jpg"></a></li>
-          <li><img src="<?php bloginfo('template_url'); ?>/assets/img/product-bdot-plain.jpg"></a></li>
-          <li><img src="<?php bloginfo('template_url'); ?>/assets/img/product-bdot-strawberry.jpg"></a></li>
+          <li><img alt="Cinnamon Bagel Dot" title="Cinnamon Bagel Dot" src="<?php bloginfo('template_url'); ?>/assets/img/product-bdot-cinnamon.jpg"></a></li>
+          <li><img alt="Everything Bagel Dot" title="Everything Bagel Dot" src="<?php bloginfo('template_url'); ?>/assets/img/product-bdot-everything.jpg"></a></li>
+          <li><img alt="Jalapeño Bagel Dot" title="Jalapeño Bagel Dot" src="<?php bloginfo('template_url'); ?>/assets/img/product-bdot-jalapeno.jpg"></a></li>
+          <li><img alt="Nutella Bagel Dot" title="Nutella Bagel Dot" src="<?php bloginfo('template_url'); ?>/assets/img/product-bdot-nutella.jpg"></a></li>
+          <li><img alt="Plain Bagel Dot" title="Plain Bagel Dot" src="<?php bloginfo('template_url'); ?>/assets/img/product-bdot-plain.jpg"></a></li>
+          <li><img alt="Strawberry Bagel Dot" title="Strawberry Bagel Dot" src="<?php bloginfo('template_url'); ?>/assets/img/product-bdot-strawberry.jpg"></a></li>
         </ul>
      </div>
 </div>
