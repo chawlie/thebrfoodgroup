@@ -80,6 +80,10 @@ get_header(); ?>
 			<li>Pumpkin</li>
 		</ul>
         <p><strong>Monkey Bread</strong></p>
+        <ul>
+            <li>Cinnamon &amp; Sugar</li>
+            <li>Chocolate &amp; Toffee</li>
+        </ul>
 	</div>
 </div>
 <div class="row">

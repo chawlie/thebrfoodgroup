@@ -43,7 +43,7 @@ get_header(); ?>
 				</section>
 			</a>
 		</div>
-		<div class="small-12 medium-4 columns text-center"> 
+		<div class="small-12 medium-4 columns text-center">
 			<a href="<?php echo home_url( '/products/' ); ?>">
 				<section class="home-feature">
 					<img class="icon" src="<?php bloginfo('template_url'); ?>/assets/img/bread.svg">
